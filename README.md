@@ -2,8 +2,8 @@
 
 # Links
 
-Rating https://docs.google.com/spreadsheets/d/1bE9kOw2Xy2XklrXoT4PXrlEDxvtpWEkT/edit?usp=sharing&ouid=114475029442435936267&rtpof=true&sd=true
-
+Rating 
+https://docs.google.com/spreadsheets/d/1m5qsLsMSeB9oyyW2mAOowpLf0FIPmP7s/edit#gid=2041993413
 # Videos
 
 Playlist https://youtube.com/playlist?list=PLRvzEK7PXsidf2pgRvKofA9tSH-2eduSA
